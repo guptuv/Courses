@@ -1,4 +1,6 @@
 Hi here U can see 3d Meshes/Depth and point clouds generated from single images
+## ..
+The model was trained on the NYU Depth Dataset — thousands of indoor scenes where both the RGB image and a LiDAR-measured ground truth depth map were recorded. Over millions of training steps, the model learned to associate visual patterns with depth values. By the time you use it, it has internalized all the depth cues humans use intuitively.
 
 ## 1
 
