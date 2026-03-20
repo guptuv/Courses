@@ -24,3 +24,8 @@ The model was trained on the NYU Depth Dataset — thousands of indoor scenes wh
 <img width="1189" height="287" alt="image" src="https://github.com/user-attachments/assets/22d8e114-01bb-4aeb-93b2-793c66e69607" />
 <img width="600" height="400" alt="point" src="https://github.com/user-attachments/assets/baf23ed2-70d2-4052-b600-99c58e212c20" />
 <img width="600" height="400" alt="mesh" src="https://github.com/user-attachments/assets/7abdcc79-177b-48c4-bfa4-da9144c5eb2e" />
+
+## 5
+<img width="1189" height="427" alt="image" src="https://github.com/user-attachments/assets/aac8b7af-16cc-4383-86d1-7c2569688f08" />
+<img width="600" height="400" alt="pcdzeb" src="https://github.com/user-attachments/assets/dbd72ece-dfdd-4618-9b05-2a8a388bde07" />
+<img width="600" height="400" alt="zebply" src="https://github.com/user-attachments/assets/6c6253fe-9935-44cc-8042-1c59a188a9c7" />
